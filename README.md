@@ -1,4 +1,4 @@
-### Hi there! I am Fakher Zaman 👋
+### Hi there! I'm Fakher Zaman 👋
 
 
 **Fakher-Zaman/Fakher-Zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
