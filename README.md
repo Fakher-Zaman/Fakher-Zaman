@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fakher Zaman</h1>
-<h3 align="center">I'm student of Information Technology & working as a web developer.</h3>
+<h3 align="center">(I'm a student of Information Technology && A Web Developer)</h3>
 <h3 align="center">¯\_(ツ)_/¯
   
 Student | Learner | Programmer
