@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fakher Zaman</h1>
-<h3 align="center">A passionate web developer from lahore, pakistan.</h3>
+<h3 align="center">I'm student of Information Technology & working as a web developer.</h3>
+<h3 align="center">¯\_(ツ)_/¯
+
+Student | Learner | Programmer
+
+?></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakher-zaman&label=Profile%20views&color=0e75b6&style=flat" alt="fakher-zaman" /> </p>
 
