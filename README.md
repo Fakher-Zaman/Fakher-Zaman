@@ -12,7 +12,7 @@ Student | Learner | Programmer
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate with **other contect creators**
+- 👯 I’m looking to collaborate with **other content creators**
 
 - 🤝 I’m looking for help with **web development documentation**
 
