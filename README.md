@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fakher Zaman</h1>
-<h3 align="center">(I'm a student of Information Technology && A Web Developer)</h3>
+<h3 align="center">I'm a student of Information Technology.</h3>
+<img src="[paris.jpg](https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg)" alt="Paris"   
+  display = block
+  margin-left = auto
+  margin-right = auto
+  width = 70%>
+
 <h3 align="center">¯\_(ツ)_/¯
   
 Student | Learner | Programmer
