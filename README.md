@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fakher Zaman</h1>
-<h3 align="center">Bachelor's Studies Information Technology.</h3>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg" width="1050" height="500">
+<h3 align="center"><u>Bachelor's Studies Information Technology<u></h3>
+<img align="center" style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg" width="761" height="426">
 <h3 align="center">¯\_(ツ)_/¯
   
 Student | Learner | Programmer
