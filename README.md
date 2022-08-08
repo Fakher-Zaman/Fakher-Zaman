@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fakher Zaman</h1>
 <h3 align="center"><u><b>Bachelor's Studies Information Technology</b></u></h3>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8d2ViJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&amp;w=1000&amp;q=80" width="761" height="507">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8d2ViJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&amp;w=1000&amp;q=80" width="800" height="520">
 <h3 align="center">¯\_(ツ)_/¯
   
 Student | Learner | Programmer
