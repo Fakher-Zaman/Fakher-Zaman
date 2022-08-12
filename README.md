@@ -24,9 +24,10 @@ Student | Learner | Programmer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fakher__zaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fakher__zaman" height="30" width="40" /></a>
+<a href="https://twitter.com/fakherzaman_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fakherzaman_pk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fakher zaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakher zaman" height="30" width="40" /></a>
 <a href="https://fb.com/fakher zaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fakher zaman" height="30" width="40" /></a>
+<a href="https://instagram.com/fakherzaman_pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fakherzaman_pk" height="30" width="40" /></a>
 </p>
 
 ### Profile Visitors 
