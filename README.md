@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fakher Zaman</h1>
+<h1 align="center">Hi 👋 there, I'm Fakher Zaman</h1>
 <h3 align="center"><u><b>Bachelor's Studies Information Technology</b></u></h3>
 <img src="https://www.itl.cat/pngfile/big/327-3274460_web-development.jpg" width="100%" height="auto">
 <h3 align="center">¯\_(ツ)_/¯
