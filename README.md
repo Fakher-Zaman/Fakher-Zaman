@@ -10,7 +10,7 @@ Student | Learner | Programmer
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
