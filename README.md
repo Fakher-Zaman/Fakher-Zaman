@@ -8,15 +8,15 @@ Student | Learner | Programmer
 </h3>
 
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **Capstone Project**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- 🤝 I’m looking for help with **web development tools**
+- 🤝 I’m looking for help with **Development Tools**
 
-- 💬 Ask me about **C/C++, JavaScript**
+- 💬 Ask me about **Information Technology**
 
 - 📫 How to reach me **fakherzamanofficial@gmail.com**
 
