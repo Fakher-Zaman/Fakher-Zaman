@@ -8,7 +8,7 @@ Student | Learner | Programmer
 </h3>
 
 
-- 🔭 I’m currently working on **Capstone Project**
+- 🔭 I’m currently working on **Node.js**
 
 - 🌱 I’m currently learning **Python**
 
