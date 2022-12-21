@@ -21,6 +21,9 @@ Student | Learner | Programmer
 
 - ⚡ Fun fact **Tea < 3**
 
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/108528664/208939223-874738a9-0333-4a87-8245-93edaa730ca3.png)
+">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fakherzamanpk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fakherzamanpk" height="30" width="40" /></a>
