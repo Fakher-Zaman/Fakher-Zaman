@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Fakher Zaman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋 there, I'm Fakher Zaman</h1>
+<h3 align="center"><u><b>Bachelor's Studies Information Technology</b></u></h3>
+<img src="https://www.itl.cat/pngfile/big/327-3274460_web-development.jpg" width="100%" height="auto">
+<h3 align="center">¯\_(ツ)_/¯
+Student | Learner | Programmer
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fakher-zaman&label=Profile%20views&color=0e75b6&style=flat" alt="fakher-zaman" /> </p>
+- 🔭 I’m currently working on **Node.js**
 
-- 🔭 I’m currently working on **ok**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **ok**
+- 👯 I’m looking to collaborate with **other content creators**
 
-- 📫 How to reach me **123**
+- 🤝 I’m looking for help with **Development Tools**
 
-- ⚡ Fun fact **yup**
+- 💬 Ask me about **Information Technology**
+
+- 📫 How to reach me **fakherzamanofficial@gmail.com**
+
+- ⚡ Fun fact **Tea < 3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
