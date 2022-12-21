@@ -21,8 +21,7 @@ Student | Learner | Programmer
 
 - ⚡ Fun fact **Tea < 3**
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/108528664/208939223-874738a9-0333-4a87-8245-93edaa730ca3.png)
-">
+<img align="right" src="[https://www.itl.cat/pngfile/big/327-3274460_web-development.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2wLEMUGqIHyzb8G6CDx_J9&ust=1671721965481000&source=images&cd=vfe&ved=2ahUKEwjNnMzg_4r8AhVSiqQKHaPID0AQjRx6BAgAEAo)" width="100%" height="auto">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
