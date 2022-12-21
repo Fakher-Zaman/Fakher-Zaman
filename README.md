@@ -2,7 +2,9 @@
 <h3 align="center"><u><b>Bachelor's Studies Information Technology</b></u></h3>
 <img src="https://www.itl.cat/pngfile/big/327-3274460_web-development.jpg" width="100%" height="auto">
 <h3 align="center">¯\_(ツ)_/¯
+  
 Student | Learner | Programmer
+  
 </h3>
 
 - 🔭 I’m currently working on **Node.js**
