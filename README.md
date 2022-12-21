@@ -35,15 +35,4 @@ Student | Learner | Programmer
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<br>
-
-<p align="center">
-<a href="https://github.com/uzairriaz">
-  <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uzairriaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <br>
-  <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uzairriaz&layout=compact&theme=algolia"/> 
-</a>
-</p>
-
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fakher-zaman&" alt="fakher-zaman" /></p>
