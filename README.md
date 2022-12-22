@@ -1,4 +1,13 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋 there, I'm Fakher Zaman</h1>
+<h3 align="center"><u><b>Bachelor's Studies Information Technology</b></u></h3>
+<img src="https://www.itl.cat/pngfile/big/327-3274460_web-development.jpg" width="100%" height="auto">
+<h3 align="center">¯\_(ツ)_/¯
+  
+Student | Learner | Programmer
+  
+</h3>
+
 <br>- 🔭 I’m currently working on **web development**<br>- 🌱 I’m currently learning **a lot of things**<br>- 👯 I’m looking to collaborate with **other content creators**<br>- 🤝 I’m looking for help with **development tools**<br>- 💬 Ask me about **python or any tech related stuff**<br>- 📫 How to reach me **fakherzamanofficial@gmail.com**<br>- ⚡ Fun fact **tea < 3**
 
 
