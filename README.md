@@ -3,7 +3,7 @@
 <h3 align="center"><u><b>Bachelor's Studies Information Technology</b></u></h3>
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="500" height="320" />
 
-<br>- 🔭 I’m currently working on **web development**<br>- 🌱 I’m currently learning **a lot of things**<br>- 👯 I’m looking to collaborate with **other developers**<br>- 🤝 I’m looking for help with **development tools**<br>- 💬 Ask me about **python or any tech related stuff**<br>- 📫 How to reach me **fakherzamanofficial@gmail.com**<br>- ⚡ Fun fact **tea < 3**
+<br>- 🔭 I’m currently working on **projects**<br>- 🌱 I’m currently learning **a lot of things**<br>- 👯 I’m looking to collaborate with **developers**<br>- 🤝 I’m looking for help with **development tools**<br>- 💬 Ask me about **python or any tech related stuff**<br>- 📫 How to reach me **fakherzamanofficial@gmail.com**<br>- ⚡ Fun fact **tea < 3**
 
 
 ## 🌐 Socials:
