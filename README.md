@@ -4,7 +4,7 @@
 <h3 align="center"><u><b>Bachelor's Studies Information Technology</b></u></h3>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="430" height="300"/>
 
-<br>- 🔭 I’m currently working on **something cool**:wink:<br>- 🌱 I’m currently learning **python and a bit of AI**<br>- 👯 I’m looking to collaborate with **other content creators**<br>- 🤝 I’m looking for help with **development tools**<br>- 💬 Ask me about **python or any tech related stuff**<br>- 📫 How to reach me **fakherzamanofficial@gmail.com**<br>- 👨‍💻 All of my projects are available on **github**<br>- ⚡ Fun fact **tea < 3**:joy:
+<br>- 🔭 I’m currently working on **something cool**:wink:<br>- 🌱 I’m currently learning **python and a bit of AI**<br>- 👯 I’m looking to collaborate with **other content creators**<br>- 🤝 I’m looking for help with **development tools**<br>- 💬 Ask me about **python or any tech related stuff**<br>- 📫 How to reach me **fakherzamanofficial@gmail.com**<br>- 👨‍💻 Most of my projects are available on **github**<br>- ⚡ Fun fact **tea < 3**:joy:
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fakherzaman.pk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fakher-zaman/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fakherzamanpk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fakherzamanpk) 
