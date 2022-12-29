@@ -1,7 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋 there, I'm Fakher Zaman</h1>
 <h2 align="center">I'm a Student, Learner, and Developer!</h2>
-<h3 align="center"><u><b>Bachelor's Studies Information Technology</b></u></h3>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="430" height="300"/>
 
 <br>- 🔭 I’m currently working on **something cool**:wink:<br>- 🌱 I’m currently learning **python and a bit of AI**<br>- 👯 I’m looking to collaborate with **other content creators**<br>- 🤝 I’m looking for help with **development tools**<br>- 💬 Ask me about **python or any tech related stuff**<br>- 📫 How to reach me **fakherzamanofficial@gmail.com**<br>- 👨‍💻 Most of my projects are available on **github**<br>- ⚡ Fun fact **tea < 3**:joy:
