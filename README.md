@@ -3,7 +3,7 @@
 <h2 align="center">I'm a Student, Learner, and Developer!</h2>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-<br><br><br>- 🔭 I’m currently working on **something cool**:wink:<br>- 🌱 I’m currently learning **python and a bit of AI**<br>- 👯 I’m looking to collaborate with **other content creators**<br>- 🤝 I’m looking for help with **development tools**<br>- 💬 Ask me about **python or any tech related stuff**<br>- 📫 How to reach me **fakherzamanofficial@gmail.com**<br>- 👨‍💻 Most of my projects are available on **github**<br>- ⚡ Fun fact **tea < 3**:joy:
+<br><br>- 🔭 I’m currently working on **something cool**:wink:<br>- 🌱 I’m currently learning **python and a bit of AI**<br>- 👯 I’m looking to collaborate with **other content creators**<br>- 🤝 I’m looking for help with **development tools**<br>- 💬 Ask me about **python or any tech related stuff**<br>- 📫 How to reach me **fakherzamanofficial@gmail.com**<br>- 👨‍💻 Most of my projects are available on **github**<br>- ⚡ Fun fact **tea < 3**:joy:
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fakherzaman.pk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fakher-zaman/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fakherzamanpk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fakherzamanpk) 
