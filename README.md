@@ -35,7 +35,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Fakher-Zaman)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Fakher-Zaman)    
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fakher-zaman&" alt="fakher-zaman" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
