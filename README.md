@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakher-zaman&label=Profile%20views&color=0e75b6&style=flat" alt="fakher-zaman" /> </p>
 
-- 🔭 I’m currently working on **something cool**:wink:
+- 🔭 I’m currently working on **front-end development**:wink:
 - 🌱 I’m currently learning **python and a bit of AI**
 - 👯 I’m looking to collaborate with **other content creators**
 - 🤝 I’m looking for help with **development tools**
-- 💬 Ask me about **python or any tech related stuff**
+- 💬 Ask me about **web core technologies**
 - 📫 How to reach me **fakherzamanofficial@gmail.com** 
 - 👨‍💻 Most of my projects are available on **github**
 - ⚡ Fun fact **tea < 3**:joy:
