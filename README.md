@@ -11,10 +11,10 @@
 - 🤝 I’m looking for help with **development tools**
 - 💬 Ask me about **web core technologies**
 - 📫 How to reach me **fakherzamanofficial@gmail.com** 
-- 👨‍💻 Most of my projects are available on **github**
+- 👨‍💻 Most of my projects are available on **GitHub**
 - ⚡ Fun fact **tea < 3**:joy:
 
-## 🌐 Contact with me:
+## 🌐 Contact me:
 <p align="left">
 <a href="https://codepen.io/fakhar-zaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fakhar-zaman" height="30" width="40" /></a>
 <a href="https://twitter.com/fakherzamanpk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fakherzamanpk" height="30" width="40" /></a>
