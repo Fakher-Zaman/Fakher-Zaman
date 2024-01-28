@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakher-zaman&label=Profile%20views&color=0e75b6&style=flat" alt="fakher-zaman" /> </p>
 
-- 🔭 I’m currently working on **TypeScript**
-- 🌱 I’m currently learning **a lot of things**
-- 👯 I’m looking to collaborate with **developers**
-- 🤝 I’m looking for help with **development tools**
-- 💬 Ask me about **web core technologies**
+- 🔭 I’m currently working on **Software Development**
+- 🌱 I’m currently learning **TypeScript**
+- 👯 I’m looking to collaborate with **Software Developers**
+- 🤝 I’m looking for help with **Content Creators**
+- 💬 Ask me about **Web Core Tech**
 - 📫 How to reach me **fakherzamanofficial@gmail.com** 
 - 👨‍💻 Most of my projects are available on **GitHub**
 - ⚡ Fun fact **tea < 3**:joy:
