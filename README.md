@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakher-zaman&label=Profile%20views&color=0e75b6&style=flat" alt="fakher-zaman" /> </p>
 
-- 🔭 I’m currently working on my **Final Year Project**
+- 🔭 I’m currently working on **TypeScript**
 - 🌱 I’m currently learning **a lot of things**
-- 👯 I’m looking to collaborate with **other content creators**
+- 👯 I’m looking to collaborate with **developers**
 - 🤝 I’m looking for help with **development tools**
 - 💬 Ask me about **web core technologies**
 - 📫 How to reach me **fakherzamanofficial@gmail.com** 
