@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://codepen.io/fakhar-zaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fakhar-zaman" height="30" width="40" /></a>
 <a href="https://twitter.com/fakherzamanpk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fakherzamanpk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fakher-zaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakher-zaman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fakher-zaman-3b21b5213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakher-zaman" height="30" width="40" /></a>
 <a href="https://instagram.com/fakherzaman.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fakherzaman.pk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fakherzaman?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fakherzaman?hr_r=1" height="30" width="40" /></a>
 </p>
