@@ -1,6 +1,6 @@
 ## 💫 About Me:
 <h1 align="center">Hi 👋 there, I'm Fakher Zaman</h1>
-<h2 align="center">A passionate software developer from Pakistan.</h2>
+<h2 align="center">Associate Software Engineer</h2>
 <img align="right" alt="Coder GIF" width=435 height=auto src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakher-zaman&label=Profile%20views&color=0e75b6&style=flat" alt="fakher-zaman" /> </p>
