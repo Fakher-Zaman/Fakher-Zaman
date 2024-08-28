@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakher-zaman&label=Profile%20views&color=0e75b6&style=flat" alt="fakher-zaman" /> </p>
 
 - 🔭 I’m currently working on **Next.js**
-- 🌱 I’m currently learning **a lot of things**
+- 🌱 I’m currently learning **Nest.js**
 - 👯 I’m looking to collaborate with **Software Developers**
 - 🤝 I’m looking for help with **Content Creators**
 - 💬 Ask me about **Web Core Tech**
