@@ -3,6 +3,7 @@
 
 ## About Me:
 <img align="right" alt="Coder GIF" width=435 height=auto src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
+<!--Profile Count Badge-->
 
 - 🔭 I’m currently working on **Claude Code**
 - 🌱 I’m currently learning **a lot of things**
@@ -13,7 +14,11 @@
 - 👨‍💻 Most of my projects are available on **GitHub**
 - ⚡ Fun fact **tea < 3**:joy:
 
-## Contact me:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
+
+<h2 align="center">Connect With Me</h2> 
 <p align="left">
 <a href="https://codepen.io/fakhar-zaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fakhar-zaman" height="30" width="40" /></a>
 <a href="https://twitter.com/fakherzamanpk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fakherzamanpk" height="30" width="40" /></a>
