@@ -1,14 +1,14 @@
+<h1 align="left">Hey 👋 What's up</h1>
+<p>My name is Fakher Zaman, and I'm a Software Engineer from Lahore, Pakistan.</p>
+
 ## About Me:
-<h1 align="center">Hi 👋 there, I'm Fakher Zaman</h1>
 <img align="right" alt="Coder GIF" width=435 height=auto src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fakher-zaman&label=Profile%20views&color=0e75b6&style=flat" alt="fakher-zaman" /> </p>
-
-- 🔭 I’m currently working on **Dalmore Data CLI**
-- 🌱 I’m currently learning **Nest.js**
+- 🔭 I’m currently working on **Claude Code**
+- 🌱 I’m currently learning **a lot of things**
 - 👯 I’m looking to collaborate with **Software Developers**
 - 🤝 I’m looking for help with **Content Creators**
-- 💬 Ask me about **Web Core Tech**
+- 💬 Ask me about **React Js**
 - 📫 How to reach me **fakherzamanofficial@gmail.com** 
 - 👨‍💻 Most of my projects are available on **GitHub**
 - ⚡ Fun fact **tea < 3**:joy:
