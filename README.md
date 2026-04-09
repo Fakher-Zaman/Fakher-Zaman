@@ -96,6 +96,8 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
 </p>
 
+<br/>
+
 <!--Trophies Section-->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
