@@ -170,18 +170,35 @@
   <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Optimism%20is%20the%20one%20quality%20more%20associated%20with%20success%20and%20happiness%20than%20any%20other.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
-
 <br/>
 
-<h2 align="center">🤝 Connect With Me 🤝</h2>
-<p align="center">
-  <a href="https://codepen.io/fakhar-zaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fakhar-zaman" height="30" width="40" /></a>
-  <a href="https://twitter.com/fakherzamanpk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fakherzamanpk" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/fakher-zaman-3b21b5213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakher-zaman" height="30" width="40" /></a>
-  <a href="https://instagram.com/fakherzaman.pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fakherzaman.pk" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/fakherzaman?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fakherzaman?hr_r=1" height="30" width="40" /></a>
-</p>
-
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+<a href="mailto:fakherzamanofficial@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="fakherzamanofficial@gmail.com" style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/fakherzamanpk" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="fakherzamanpk" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/fakherzaman.pk" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="fakherzaman.pk" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.githubcom/Fakher-Zaman" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Fakher-Zaman" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/fakher-zaman-engineer/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/fakherzaman" target="_blank">
+<img src="./dev_to.png" width=50 height=50 alt="dev_fakher" style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.io/fakhar-zaman" target="_blank">
+<img src="./codepen.png" width=50 height=50 alt="codepen_fakhar" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.hackerrank.com/fakherzaman?hr_r=1" target="_blank">
+<img src="./hackerank.png" width=50 height=50 alt="hackerrank_fakher" style="margin-bottom: 5px;" />
+</a>
+</div>
 <br/>
 <br/>
 
