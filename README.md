@@ -183,7 +183,7 @@
 <a href="https://www.instagram.com/fakherzaman.pk" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="fakherzaman.pk" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.githubcom/Fakher-Zaman" target="_blank">
+<a href="https://www.github.com/Fakher-Zaman" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Fakher-Zaman" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/fakher-zaman-engineer/" target="_blank">
