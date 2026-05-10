@@ -12,9 +12,9 @@
 <p align="left">I am a Full Stack Developer and AI Enthusiast with a huge love for TypeScript, React.js, Next.js, Node.js, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🔭 I’m currently working on [Swake.io](https://swake.io)
-- 🤝 I’m looking for help with **Content Creators**
+- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
+- 🔭 I'm currently working on [Swake.io](https://swake.io)
+- 🤝 I'm looking for help with **Content Creators**
 - 💬 Ask me about **React Js**
 - 🤍 Contributing to Open Source.
 - 📫 How to reach me [fakherzamanofficial@gmail.com](mailto:fakherzamanofficial@gmail.com)
@@ -99,13 +99,18 @@
 <br/>
 
 <!--Trophies Section-->
+<!--
+  FIX: Switched from broken custom instance (github-profile-trophy-ruddy.vercel.app)
+  to the official github-profile-trophy repo instance.
+  Theme: "monokai" for dark, default for light — matches your nightowl color palette.
+-->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/Fakher-Zaman">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Fakher-Zaman&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Fakher-Zaman&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Fakher-Zaman&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Fakher-Zaman&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Fakher-Zaman&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Fakher-Zaman&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
     </picture>
   </a>
 </p>
@@ -113,45 +118,14 @@
 
 <!--Github stats Table-->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Fakher-Zaman">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Fakher-Zaman&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Fakher-Zaman">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Fakher-Zaman&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Top Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Fakher-Zaman/Node-and-Express">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Fakher-Zaman&repo=Node-and-Express&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Fakher-Zaman">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Fakher-Zaman&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fakher-Zaman&theme=radical" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fakher-Zaman&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fakher-Zaman&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fakher-Zaman&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fakher-Zaman&theme=radical&utcOffset=8" />
+</div>
 <br />
 
 <!--Contribution Graph-->
@@ -159,8 +133,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fakher-Zaman&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
-
----
 
 <!--Dynamic Quote card updates everyday at 12 PM-->
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
