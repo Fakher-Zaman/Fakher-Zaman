@@ -105,7 +105,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Fakher-Zaman&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Fakher-Zaman&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Fakher-Zaman&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai>
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Fakher-Zaman&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
     </picture>
   </a>
 </p>
@@ -134,7 +134,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Optimism%20is%20the%20one%20quality%20more%20associated%20with%20success%20and%20happiness%20than%20any%20other.&theme=dark&bg_color=141320&author_color=ffeb95&accent_color=c56a90&hide_border=true">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=Optimism%20is%20the%20one%20quality%20more%20associated%20with%20success%20and%20happiness%20than%20any%20other.&theme=dark&bg_color=141320&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 <br/>
